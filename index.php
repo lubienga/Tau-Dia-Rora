@@ -76,19 +76,19 @@
             <div class="collapse navbar-collapse ml-auto" id="navbarSupportedContent">
               <ul class="navbar-nav  ">
                 <li class="nav-item active">
-                  <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="about.php"> About</a>
+                  <a class="nav-link" href="about.html"> About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="service.php"> Services </a>
+                  <a class="nav-link" href="service.html"> Services </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="guard.php"> Team </a>
+                  <a class="nav-link" href="guard.html"> Team </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact.php">Contact us</a>
+                  <a class="nav-link" href="contact.html">Contact us</a>
                 </li>
               </ul>
             </div>
